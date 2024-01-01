@@ -1,0 +1,6 @@
+com\message\pojo\SmsRequest.class
+com\messageservice\SmsService.class
+com\message\pojo\Account.class
+com\message\pojo\Data.class
+com\message\pojo\Msg.class
+com\message\pojo\TextMessage.class
